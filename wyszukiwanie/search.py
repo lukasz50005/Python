@@ -5,8 +5,8 @@ from googleapiclient.discovery import build
 import psycopg2
 
 #dane google
-my_api_key = " AIzaSyBuNrMgksTEOHdsQE3Ee5Nig2XvSBDPf3w"
-my_cse_id = "001503415831128023061:hl1dprcnp8k"
+my_api_key = ""
+my_cse_id = ""
 
 #dane do bazy danych
 db="postgres"
